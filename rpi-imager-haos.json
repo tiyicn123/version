@@ -6,10 +6,10 @@
       "url": "https://github.com/tiyicn123/operating-system/releases/download/13.1/haos_rpi5-64-13.1.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
-      "extract_sha256": "1364ae34f6562280e099c98e5304ee9c9bd905eb2bc23656d3ef59daebedf4cf",
-      "release_date": "2024-11-28",
-      "image_download_size": 302197696,
-      "image_download_sha256": "723719c8b90ea915a0fae4c97ed865f2c12dae8dfc00b10f8d1d963355e790c3",
+      "extract_sha256": "a3d0035c0bc58fa68cd90262a9707083e410861cd93e174a8aae7449b6eda231",
+      "release_date": "2024-12-11",
+      "image_download_size": 302239356,
+      "image_download_sha256": "c1fb1d44317fc4e6b89134afb6a7f299b1156e35e213da5de97ff162ed3984b1",
       "website": "https://www.home-assistant.io",
       "devices": [
         "pi5-64bit"
@@ -21,10 +21,10 @@
       "url": "https://github.com/tiyicn123/operating-system/releases/download/13.1/haos_rpi4-64-13.1.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
-      "extract_sha256": "6c869cab6054e8864ae357fd66be684e6d61a56e6f3c2fb884ed8431c1f1119d",
-      "release_date": "2024-11-28",
-      "image_download_size": 295427096,
-      "image_download_sha256": "db683225a2f7814d1af76f32184ea9954128a6329bbc7a6ad6da4106e50e53e8",
+      "extract_sha256": "a7975d641652eef6b50b6902cfa5228f466e0ea3d513498deff031f49899fb1b",
+      "release_date": "2024-12-11",
+      "image_download_size": 295151376,
+      "image_download_sha256": "854cfa6cfeb8c8bd012591a5f80823693146af6ebadb8861579a5fded072a01f",
       "website": "https://www.home-assistant.io",
       "devices": [
         "pi4-64bit"
@@ -36,10 +36,10 @@
       "url": "https://github.com/tiyicn123/operating-system/releases/download/13.1/haos_rpi3-64-13.1.img.xz",
       "icon": "https://version.home-assistant.io/brand/logo.png",
       "extract_size": 2147483648,
-      "extract_sha256": "fad4bdc05f6612861635ddfad8649259221407832db095a478eb414da4267241",
-      "release_date": "2024-11-28",
-      "image_download_size": 291250976,
-      "image_download_sha256": "850c32d5cc08d718f71025c04467f7083d825ae697ba804424981207fed2a7bd",
+      "extract_sha256": "995c5fc350f56677be123753a7bae6e8e8a93d5725a171c67c3eab87d0c0183a",
+      "release_date": "2024-12-11",
+      "image_download_size": 291397192,
+      "image_download_sha256": "62f975a346e475d17a12ddbec857732c847d172ca38f60b10f7a8174c3542762",
       "website": "https://www.home-assistant.io",
       "devices": [
         "pi3-64bit"
